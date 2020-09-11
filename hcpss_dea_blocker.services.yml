@@ -1,0 +1,5 @@
+services:
+  hcpss_dea_blocker.blacklist:
+    class: Drupal\hcpss_dea_blocker\BlacklistService
+    arguments:
+      - '@state'

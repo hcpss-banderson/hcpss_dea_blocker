@@ -1,0 +1,6 @@
+name: 'HCPSS Disposable Email Address Blocker'
+description: 'Provides a service to check a blacklist for email addresses.'
+package: HCPSS
+type: module
+core_version_requirement: ^8.9.0 || ^9
+version: '8.x-1,0'
