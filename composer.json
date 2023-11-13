@@ -1,0 +1,13 @@
+{
+    "name": "drupal/hcpss_dea_blocker",
+    "description": "A Drupal module for checking for disposable email domains",
+    "type": "drupal-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brendan Anderson",
+            "email": "brendan_anderson@hcpss.org"
+        }
+    ],
+    "require": {}
+}
