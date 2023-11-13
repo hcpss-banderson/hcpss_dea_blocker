@@ -3,4 +3,4 @@ description: 'Provides a service to check a blacklist for email addresses.'
 package: HCPSS
 type: module
 core_version_requirement: ^9 || ^10
-version: '8.x-1.0'
+version: '8.x-1.1'
